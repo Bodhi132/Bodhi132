@@ -26,6 +26,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
----
-
-⚡ **Fun Fact:** A well-crafted README is like a digital handshake – make it count!  
+--- 
